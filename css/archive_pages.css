@@ -1,0 +1,29 @@
+/*
+ * archive_pages.css
+ *
+ */
+
+ table {
+    margin-left: 1rem;
+  }
+  
+  td, td a {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    line-height: 18px;
+    letter-spacing: 1px;
+    font-family: "Helvetica Neue", sans-serif;
+    font-family: acumin-pro, sans-serif;  /* GL added 8/17/2020 */
+    font-size: 14px;
+    color: #444;
+  }
+  
+  a {
+      color: #555;
+      text-decoration: none;
+  }
+  
+  a:hover {
+    color: #57f;
+    text-decoration: none;
+  }
